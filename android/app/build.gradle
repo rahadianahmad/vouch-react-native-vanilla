@@ -179,7 +179,7 @@ android {
 }
 
 dependencies {
-    implementation 'com.github.VouchSG:VouchSDK-Android:2.0.0'
+    // implementation 'com.github.VouchSG:VouchSDK-Android:2.0.0'
     implementation fileTree(dir: "libs", include: ["*.jar"])
     implementation "com.facebook.react:react-native:+"  // From node_modules
 
